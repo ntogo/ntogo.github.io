@@ -1,4 +1,4 @@
-j# Nicholas Togonon's Portfolio
+# Nicholas Togonon's Portfolio
 CSPC 120A/L Spring 2024
 
 I'm a computer science major at CSUF. Originally transferred here for Psychology but found a new interest in comp sci. I expect to graduate around 2028(hopefully sooner!).
